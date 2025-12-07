@@ -363,6 +363,16 @@ After writing the Go functions and frontend code, you can test the browser:
 
 This will compile the project and create a native desktop application.
 
+#### **7. Structure/Stack:
+1.https://feathericons.com/
+2.https://heroicons.com/
+3.jQuery
+
+#### **8. Elements i want to see in the project (NECESSARILY):
+1.
+2.
+3.
+
 ---
 
 ### **Conclusion**
